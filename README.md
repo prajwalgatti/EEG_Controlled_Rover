@@ -1,4 +1,7 @@
 # EEG_Controlled_Rover
+
+![](https://cdn-images-1.medium.com/max/1600/1*uH3v3x6rCjl-_iYObrVLhg.jpeg)
+
 A Brain-Computer Interface implementation to control a rover with real time EEG data.
 
 Using Emotiv Insight, a portable EEG reader, we obtain raw EEG data stream from the subject and train the Cortex API to learn the commands needed to control the rover.
